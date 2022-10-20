@@ -14,11 +14,11 @@ Online Retail II isimli veri seti İngiltere merkezli bir perakende şirketinin 
 
 ### 8 Değişken 541.909 Gözlem 45.6MB
 
-###### InvoiceNo : Fatura Numarası ( Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder )
-#### StockCode Ürün kodu ( Her bir ürün için eşsiz )
-#### Description Ürün ismi
-#### Quantity Ürün adedi ( Faturalardaki ürünlerden kaçar tane satıldığı)
-#### InvoiceDate Fatura tarihi
-#### UnitPrice Fatura fiyatı ( Sterlin )
-#### CustomerID Eşsiz müşteri numarası
-#### Country Ülke ismi
+##### InvoiceNo : Fatura Numarası ( Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder )
+##### StockCode : Ürün kodu ( Her bir ürün için eşsiz )
+##### Description : Ürün ismi
+##### Quantity : Ürün adedi ( Faturalardaki ürünlerden kaçar tane satıldığı)
+##### InvoiceDate : Fatura tarihi
+##### UnitPrice : Fatura fiyatı ( Sterlin )
+##### CustomerID : Eşsiz müşteri numarası
+##### Country : Ülke ismi
